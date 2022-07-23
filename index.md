@@ -2,4 +2,4 @@
 <h2 style="text-align: center;"><span style="color: #ffffff; background-color: #ff0000;">&nbsp; MIERCOLES 27/07/2022&nbsp;&nbsp;</span></h2>
 <h1 style="text-align: center;">&nbsp;</h1>
 <h1 style="text-align: center;"><span style="color: #ffffff; background-color: #ff0000;"><strong>&nbsp; ENTREGAS Y ENTREGAS Y MONTAJES:&nbsp;&nbsp;</strong></span></h1>
-<h2 style="text-align: center;"><span style="color: #ffffff; background-color: #ff0000;">&nbsp; JUEVES 28/07/2022&nbsp;&nbsp;</span></h2>
+<h2 style="text-align: center;"><span style="color: #ffffff; background-color: #ff0000;">&nbsp; MIERCOLES 27/07/2022&nbsp;&nbsp;</span></h2>
